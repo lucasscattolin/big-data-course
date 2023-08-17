@@ -1,0 +1,2 @@
+# Crear una BBDD
+CREATE
